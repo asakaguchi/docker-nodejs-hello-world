@@ -1,1 +1,1 @@
-FROM node:onbuild
+FROM asakaguchi/node:onbuild
